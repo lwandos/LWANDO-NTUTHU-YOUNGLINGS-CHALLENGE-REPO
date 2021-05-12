@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 20px 14px green;
+    text-transform: uppercase;
+    background-color: black;
+    
+}
+.logo {
+    height: 55px;
+    padding: 5px 15px;
+}
+.icon-bar {
+    background: rgb(97, 177, 97);
+}
+li a{
+color: green;
+}
+p {
+    font-size: 18px;
+    color: white;
+}
+.big-text {
+    font-size: 50px;
+    margin: 20px 0;
+    color: rgb(155, 229, 155);
+}
+#background {
+    width: 70%;
+}
+.row{
+    background-color: black;
+    padding-bottom: 220px;
+}

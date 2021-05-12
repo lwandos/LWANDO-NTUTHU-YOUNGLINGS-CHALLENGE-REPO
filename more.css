@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 7px 14px green;
+    text-transform: uppercase;
+}
+.logo {
+    height: 55px;
+    padding: 5px 15px;
+}
+.icon-bar {
+    background: rgb(97, 177, 97);
+}
+li a{
+color: green;
+}
+.big-text {
+    font-size: 50px;
+    margin: 20px 0;
+    color: green;
+}
+#bp3{
+    margin-top: 16em;
+}
