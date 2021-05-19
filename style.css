@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 675px;
+}
+ul li {
+    font-size: small;
+}
